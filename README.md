@@ -25,12 +25,12 @@
 
 6. Hver eru fyrstu 6 skref við bilagreiningu og viðgerðum
 
-  * Það fyrsta sem þú gerir er að finna út hvernig vandamál þetta er. Er þatta kerfisbilun, er þetta skjábilun o.s.frv
-  * Það næsta sem þú gerir er að koma með kenningu fyrir því hvernig þetta gerðist eða hver ástæðan fyrir þessu vandamáli sé
-  * Prófa kenninguna til að gá hvort hún sé rétt, ef hún stenst ekki gerir þú skref 2 aftur
-  * Koma með hugmynd hvernig best er að leysa úr þessu vandamáli, og reyna síðan að laga vandamálið
-  * Prófa eins mikið og þú getur í tölvunni til að sjá hvort allt virki, gá hvort forrit virki, hvort netið sé í lagi eða hvort öll tæki sem eiga að vera tengd séu tengd
-  * Skrifa niður hvað gerðist og hvernig þú leystir það, svo ef þetta gerist aftur við þig eða einvhern annan verður ekki eins erfitt að laga það
+  1. Það fyrsta sem þú gerir er að finna út hvernig vandamál þetta er. Er þatta kerfisbilun, er þetta skjábilun o.s.frv
+  2. Það næsta sem þú gerir er að koma með kenningu fyrir því hvernig þetta gerðist eða hver ástæðan fyrir þessu vandamáli sé
+  3. Prófa kenninguna til að gá hvort hún sé rétt, ef hún stenst ekki gerir þú skref 2 aftur
+  4. Koma með hugmynd hvernig best er að leysa úr þessu vandamáli, og reyna síðan að laga vandamálið
+  5. Prófa eins mikið og þú getur í tölvunni til að sjá hvort allt virki, gá hvort forrit virki, hvort netið sé í lagi eða hvort öll tæki sem eiga að vera tengd séu tengd
+  6. Skrifa niður hvað gerðist og hvernig þú leystir það, svo ef þetta gerist aftur við þig eða einvhern annan verður ekki eins erfitt að laga það
 
 7. Hver er munirinn á opinni og lokaðri spurningu?
 	
