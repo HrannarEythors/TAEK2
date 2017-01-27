@@ -21,4 +21,4 @@
 
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
-	
+	Þú þarft að passa að hann sendir rétt magn af voltum ekki of mikið og ekki of lítið, hversu vel hann endist og einnig þarf að passa upp á að hann passi á móðurborðið og í tölvukassann 
