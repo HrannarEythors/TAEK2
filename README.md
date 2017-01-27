@@ -46,3 +46,20 @@
   * Tölvumýs
   * Lyklaborð
   * Myndavélar
+
+10. Tölvan mín
+
+  	|Hlutur                                        |Staður    |Verð  |
+  	|----------------------------------------------|---------:|-----:|
+	|Inter core i5-7600 quad core örgjafi          |Tölvutek  |3.990 |
+	|Thermaltake Versa H15 mATX turnkassi          |Tölvutek  |12.990|
+	|2TB SATA3 Seagate IronWolf NAS harður diskur  |Tölvutek  |17.990|
+	|Gigabyte GTX 1070 G1 skjákort                 |Tölvutek  |69.990|
+	|Gigabyte Sumo Platinum 1000W aflgjafi         |Tölvutek  |29.990|
+	|Noctua NF-S12A PWM kassavifta                 |Tölvutek  |4.990 |
+	|Gigabyte S1151 GA-Z270X-Gaming K3 móðurborð   |Tölvutek  |27.990|
+	|ADATA 8GB DDR3 XPG V1.0 vinnsluminni          |Tölvutek  |10.990|
+	|Noctua NH-U14S örgjörvakæling                 |Tölvutek  |14.990|
+	|Creative SB Z hljóðkort PCI-Express hljóðkort |Tölvutek  |19.990|
+	|                                              |          |      |
+	|                                              |Summa     |249891|
