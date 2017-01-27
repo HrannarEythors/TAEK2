@@ -37,3 +37,12 @@
 	Opinn spuring er eitthvað þar sem svarið eftir á getur verið setning, t.d hvað varstu að gera þegar vandamálið kom upp?
 	en lokuð spurning er þar sem svarið er bara já eða nei t.d eru allar snúrur í sambandi
 
+8. Hvað eru jarðtæki?
+
+	Jarðtæki eru tæki sem þú tengir við tölvu svo hún geti tengt sig við þau og unnið saman, t.d prentari, harðurdiskur, usb, flakkri o.fl.
+
+9. 3 inntaks tæki
+
+  * Tölvumýs
+  * Lyklaborð
+  * Myndavélar
