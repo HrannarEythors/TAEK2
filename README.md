@@ -32,3 +32,8 @@
   * Prófa eins mikið og þú getur í tölvunni til að sjá hvort allt virki, gá hvort forrit virki, hvort netið sé í lagi eða hvort öll tæki sem eiga að vera tengd séu tengd
   * Skrifa niður hvað gerðist og hvernig þú leystir það, svo ef þetta gerist aftur við þig eða einvhern annan verður ekki eins erfitt að laga það
 
+7. Hver er munirinn á opinni og lokaðri spurningu?
+	
+	Opinn spuring er eitthvað þar sem svarið eftir á getur verið setning, t.d hvað varstu að gera þegar vandamálið kom upp?
+	en lokuð spurning er þar sem svarið er bara já eða nei t.d eru allar snúrur í sambandi
+
